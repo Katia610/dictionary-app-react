@@ -9,6 +9,7 @@ function App() {
         <main>
           <Dictionary />
         </main>
+        <br />
         <footer>
           Coded by Catherine Razafindralambo and hosted on Netlify
         </footer>
