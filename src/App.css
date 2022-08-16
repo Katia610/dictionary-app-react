@@ -16,7 +16,7 @@
   text-align: center;
   font-size: 18px;
 }
-
-a {
-  color: rgb(201, 94, 174);
+.App a {
+  color: #088f8a;
+  text-decoration: none;
 }
